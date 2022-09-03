@@ -1,3 +1,4 @@
+//function takes a string and removes all vowels. returns new string without vowels.
 function disemvowel(str) {
     let vowels = ['A', 'a', 'E', 'e', 'I', 'i', 'O', 'o', 'U', 'u']
     let newStr = ''
